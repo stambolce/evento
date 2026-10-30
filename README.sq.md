@@ -1,32 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://evento.mk"><img src="https://evento.mk/assets/admin/img/6ac6b66bcda99.png?v=1791407723" alt="Официјално EVENTO лого" width="350" /></a>
+# EVENTO
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://evento.mk"><img src="assets/evento-hero.svg" alt="EVENTO — official PROCESS IN product showcase" width="100%" /></a>
+<img src="https://evento.mk/assets/admin/img/6ac6b66bcda99.png?v=1791407723" alt="EVENTO — prezantim vizual i produktit" width="350" />
 
-<br/>
+<img src="assets/evento-hero.svg" alt="EVENTO — prezantim vizual i produktit" width="100%" />
+
+**Nga publikimi i ngjarjes te hyrja e verifikuar.**
 
 [![Official Website](https://img.shields.io/badge/EVENTO_MK-OFFICIAL_WEBSITE-176EF3?style=for-the-badge)](https://evento.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PLATFORM-15233B?style=for-the-badge)](https://evento.mk)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-176EF3?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Nga publikimi i ngjarjes te hyrja e verifikuar.
-
-**Nga publikimi i ngjarjes te hyrja e verifikuar.**
+**LIVE**
 
 </div>
-
----
 
 ## Rrjedhë e plotë për organizatorin
 
@@ -76,7 +66,7 @@ Bileta online, menaxhim ngjarjesh, skaner QR, validim biletash, white-label, shi
 |---|---|
 | Produkti | EVENTO |
 | Faqja zyrtare | [evento.mk](https://evento.mk) |
-| Kategoria | Platformë biletash dhe operacionesh ngjarjesh |
+| Kategoria | Bileta, mjete organizatorësh dhe verifikim hyrjeje |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |

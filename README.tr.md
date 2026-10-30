@@ -1,32 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://evento.mk"><img src="https://evento.mk/assets/admin/img/6ac6b66bcda99.png?v=1791407723" alt="Официјално EVENTO лого" width="350" /></a>
+# EVENTO
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://evento.mk"><img src="assets/evento-hero.svg" alt="EVENTO — official PROCESS IN product showcase" width="100%" /></a>
+<img src="https://evento.mk/assets/admin/img/6ac6b66bcda99.png?v=1791407723" alt="EVENTO — ürün görsel sunumu" width="350" />
 
-<br/>
+<img src="assets/evento-hero.svg" alt="EVENTO — ürün görsel sunumu" width="100%" />
+
+**Etkinlik yayınından doğrulanmış girişe.**
 
 [![Official Website](https://img.shields.io/badge/EVENTO_MK-OFFICIAL_WEBSITE-176EF3?style=for-the-badge)](https://evento.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PLATFORM-15233B?style=for-the-badge)](https://evento.mk)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-176EF3?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Etkinlik yayınından doğrulanmış girişe.
-
-**Etkinlik yayınından doğrulanmış girişe.**
+**LIVE**
 
 </div>
-
----
 
 ## Organizatör için tam akış
 
@@ -76,7 +66,7 @@ Online bilet, etkinlik yönetimi, QR tarayıcı, bilet doğrulama, white-label, 
 |---|---|
 | Ürün | EVENTO |
 | Resmî site | [evento.mk](https://evento.mk) |
-| Kategori | Etkinlik biletleme ve operasyon platformu |
+| Kategori | Biletleme, organizatör araçları ve giriş doğrulama |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
