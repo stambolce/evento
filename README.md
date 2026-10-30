@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://evento.mk"><img src="https://evento.mk/assets/admin/img/6ac6b66bcda99.png?v=1791407723" alt="Официјално EVENTO лого" width="350" /></a>
